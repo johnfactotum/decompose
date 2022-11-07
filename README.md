@@ -6,7 +6,7 @@
 
 ## Features
 
-- Copy and paste a special character to see how to type them using the [compose key](https://en.wikipedia.org/wiki/Compose_key)[^2]
+- Copy and paste a special character to see how to type it using the [compose key](https://en.wikipedia.org/wiki/Compose_key)[^2]
 - If the characters can't be typed with the compose key, it shows code points so you can type them with with [<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>U</kbd>](https://help.gnome.org/users/gnome-help/stable/tips-specialchars.html.en#ctrlshiftu)
 - It always [normalizes](https://www.unicode.org/faq/normalization.html) the input
 - It can ignore [variation selectors](https://en.wikipedia.org/wiki/Variant_form_(Unicode)), which is useful when working with emojis
