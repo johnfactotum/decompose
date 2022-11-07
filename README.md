@@ -2,6 +2,8 @@
 
 **Decompose** is a tiny GTK app[^1] for figuring out how to type special characters.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - Copy and paste a special character to see how to type them using the [compose key](https://en.wikipedia.org/wiki/Compose_key)[^2]
